@@ -1,4 +1,4 @@
-print("hola wacho")
+print("hola wacho desde auxiliar")
 
 palabra=input("ingrese su nombre : ")
 
