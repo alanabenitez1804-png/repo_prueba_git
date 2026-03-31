@@ -1,5 +1,5 @@
 print("hola wacho")
 
-palabra=input("ingrese el bolaso que quiere decir: ")
+palabra=input("ingrese su nombre : ")
 
-print(f"hola cara de {palabra}")
+print(f"HOLA {palabra} ! BIENVENIDO A LA PROGRAMACIÓN")
