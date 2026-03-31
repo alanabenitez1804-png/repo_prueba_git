@@ -1,11 +1,6 @@
 print("hola wacho")
 
-palabra=input("ingrese su nombre : ")
+numero=int(input("ingrese un numero: "))
+numero2=int(input("ingrese un numero: "))
 
-print(f"HOLA {palabra} ! BIENVENIDO A LA PROGRAMACIÓN")
-
-edad=int(input("ingrese su edad: "))
-
-anio=int(input("ingrese año actual: "))
-
-print(f"Su fecha de nacimiento es: {anio-edad}")
+print(f"resultado de suma es :{numero+numero2}")
