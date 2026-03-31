@@ -1,4 +1,4 @@
-print("hola wacho")
+print("hola wacho desde auxiliar")
 
 numero=int(input("ingrese un numero: "))
 numero2=int(input("ingrese un numero: "))
